@@ -1,4 +1,3 @@
-# Project hosted on Github Url: https://github.com/serjikisagholian/capstone-jenkins
 ## Pre Install
 - Install aws cli, to communicate with the cloud via command line
 - Install python3.6+ if not installed
