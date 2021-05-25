@@ -1,3 +1,6 @@
+## Problem description
+https://github.com/serjikisagholian/capstone-jenkins/blob/master/description.pdf
+
 ## Pre Install
 - Install aws cli, to communicate with the cloud via command line
 - Install python3.6+ if not installed
